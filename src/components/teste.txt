@@ -1,0 +1,5 @@
+<Image style={{width:150,height:150,margin:10,}}
+                source={{
+                uri: 'https://reactnative.dev/img/tiny_logo.png',
+                }}
+                />
